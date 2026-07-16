@@ -1,0 +1,4 @@
+interface:
+  display_name: "MarkItDown Converter"
+  short_description: "Convert local files to Markdown with MarkItDown on Windows."
+  default_prompt: "Use $markitdown-converter to convert a local document to Markdown and handle Windows path, encoding, and output issues."
